@@ -1,1 +1,4 @@
-print("Vous etes sur python3")
+nom ="Diallo"
+print(nom)
+
+print("Votre nom est : " + nom + ".")
